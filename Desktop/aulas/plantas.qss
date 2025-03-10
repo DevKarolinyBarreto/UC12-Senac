@@ -1,0 +1,29 @@
+
+
+QWidget {
+        background-color: rgb(255, 255, 255);     
+        border: 2px solid rgb(183, 133, 0);
+        border-radius: 6px;   
+        font-size: 12px;
+        font-family: arial;  
+                                       
+                        }       
+QLabel  {
+        color: white;
+        background-color: rgb(107, 48, 103);    
+        font-size: 12px;
+        font-family: arial;                                                
+                        }  
+
+QPushButton {
+        background-color: white;
+        border: 2px solid rgb(183, 133, 0);  
+        color: rgb(124, 76, 105);                                 
+                        }                    
+
+     #cancelou: hover {
+        background-color: rgb(180, 76, 120);    
+        color: white;                
+                        }                                              
+
+
